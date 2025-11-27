@@ -61,3 +61,95 @@ blockquote {
 .bgo {
     background: orange;
 }
+
+.s10 {
+}
+.s10::before {
+    content: "★ ";
+}
+.s10::after {
+    content: " 10";
+}
+
+.s9 {
+}
+.s9::before {
+    content: "★ ";
+}
+.s9::after {
+    content: " 9";
+}
+
+.s8 {
+}
+.s8::before {
+    content: "";
+}
+.s8::after {
+    content: " 8";
+}
+
+.s7 {
+    
+}
+.s7::before {
+    content: "";
+}
+.s7::after {
+    content: " 7";
+}
+
+.s6 {
+    
+}
+.s6::before {
+    content: "";
+}
+.s6::after {
+    content: " 6";
+}
+
+.s5 {
+    font-style: italic;
+}
+.s5::before {
+}
+.s5::after {
+    content: " 5";
+}
+
+.s4 {
+    font-style: italic;
+}
+.s4::before {
+}
+.s4::after {
+    content: " 4";
+}
+
+.s3 {
+    font-style: italic;
+}
+.s3::before {
+}
+.s3::after {
+    content: " 3";
+}
+
+.s2 {
+    font-style: italic;
+}
+.s2::before {
+}
+.s2::after {
+    content: " 2";
+}
+
+.s1 {
+    font-style: italic;
+}
+.s1::before {
+}
+.s1::after {
+    content: " 1";
+}

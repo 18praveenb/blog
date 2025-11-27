@@ -6,6 +6,7 @@ mkdir -p temp
 echo "Removing old files..."
 rm -v ../*.html
 rm -v temp/*.temp
+mkdir -p temp
 
 echo "Compiling links..."
 echo "<span class=\"toc\">" >> temp/links.temp

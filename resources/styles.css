@@ -42,3 +42,22 @@ blockquote {
         color: pink;
     }
 }
+
+.box {
+    border-radius: 8px;
+    padding: 4px;
+    margin: 4px;
+    color: white;
+}
+
+.bgg {
+    background: green;
+}
+
+.bgr {
+    background: red;
+}
+
+.bgo {
+    background: orange;
+}
